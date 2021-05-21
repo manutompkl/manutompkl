@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true">
+<a href="https://www.instagram.com/_manu_tom/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true">
 
+<a href="https://www.linkedin.com/in/manu-tom-42998a201/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
 <!--
 **manutompkl/manutompkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
