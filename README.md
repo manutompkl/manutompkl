@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 - 🤔 &nbsp; Exploring new technologies and techniques of Data Science.
-- 🎓 &nbsp; Studying at St. Joseph's College (Autonomous), Bangalore.
+- 🎓 &nbsp; Studying MSc. Big Data Analytics at St. Joseph's College (Autonomous), Bangalore.
 - 🔭 I’m currently working on Sakhyaa as Social Media Designer.
 
   
