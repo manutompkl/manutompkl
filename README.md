@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+</p>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
