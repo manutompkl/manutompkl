@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with you on your projects.
 </a>
 📫 Connect me on:
+
 </a>
 <a href="https://www.instagram.com/_manu_tom/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true">
 </a>&nbsp;&nbsp;
