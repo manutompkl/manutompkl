@@ -1,5 +1,5 @@
 ### Hi there 👋
-</p>
+
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -9,13 +9,6 @@
 - 🔭 I’m currently working on Sakhyaa as Social Media Designer.
 - 👯 I’m looking to collaborate with you on your projects.
   
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
