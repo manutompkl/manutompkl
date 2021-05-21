@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and techniques of Data Science.
 - 🎓 &nbsp; Studying at St. Joseph's College (Autonomous), Bangalore.
 - 🔭 I’m currently working on Sakhyaa as Social Media Designer.
-- 👯 I’m looking to collaborate with you on your projects.
+
   
   
 
