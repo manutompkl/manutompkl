@@ -10,13 +10,12 @@
 - 🎓 &nbsp; Studying at St. Joseph's College (Autonomous), Bangalore.
 - 🔭 I’m currently working on Sakhyaa as Social Media Designer.
 - 👯 I’m looking to collaborate with you on your projects.
-</a>
+  
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R Studio](https://www.r-project.org/)
-
 
 -->
