@@ -15,8 +15,8 @@
 
 <a href="https://www.linkedin.com/in/manu-tom/"><img height="30" src="https://github.com/manutompkl/manutompkl/blob/main/linkedin.png?raw=true">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manu-tom/"><img height="30" src="https://github.com/manutompkl/manutompkl/blob/main/linkedin.png?raw=true">
+<a href="https://www.kaggle.com/manu1624"><img height="30" src="https://github.com/manutompkl/manutompkl/blob/main/kaggle_logo_icon_168474.png?raw=true">
 </a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/manu1624"><img height="30" src="https://github.com/manutompkl/manutompkl/blob/main/instagram.png?raw=true">
+<a href="https://www.instagram.com/_manu_tom/"><img height="30" src="https://github.com/manutompkl/manutompkl/blob/main/instagram.png?raw=true">
 
 
