@@ -6,7 +6,7 @@
   
 - 🤔 &nbsp; Exploring new technologies and techniques of Data Science.
 - 🎓 &nbsp; Studying MSc. Big Data Analytics at St. Joseph's College (Autonomous), Bangalore.
-- 🔭 &nbsp; I’m currently working on Sakhyaa as Social Media Designer
+- 🔭 &nbsp; I’m currently looking for internship opportunities as Data Scientist/Analyst.
 
   
   
